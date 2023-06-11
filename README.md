@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsaini199711&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsaini199711" /> </p>
 
-
-- 🔭 I’m currently working as **a full stack developer at J&F, responsible for designing and implementing robust and scalable solutions for the company's website. I handle both front-end and back-end development, utilizing languages like HTML, CSS, JavaScript, Node.js, along with frameworks like React.js or Angular.js. I collaborate with cross-functional teams to deliver high-quality software solutions that meet business requirements and enhance user experience.**
+ - 🔭 I’m currently working as **a full stack developer at J&F, responsible for designing and implementing robust and scalable solutions for the company's website. I handle both front-end and back-end development, utilizing languages like HTML, CSS, JavaScript, Node.js, along with frameworks like React.js or Angular.js. I collaborate with cross-functional teams to deliver high-quality software solutions that meet business requirements and enhance user experience.**
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💬 Talk to me about **Full-Stack Development, Front-End Web Development, Back-End Web Development, Software Engineering, Scaling Web Apps.**
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sumitsaini.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumitsaini.netlify.app" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumit-saini-90898b117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-saini-90898b117" height="30" width="40" /></a>
+<a href="https://sumitsaini.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumitsaini.netlify.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
